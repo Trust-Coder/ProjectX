@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "307808452045",
+    "firebase_url": "https://projectx-dc145.firebaseio.com",
+    "project_id": "projectx-dc145",
+    "storage_bucket": "projectx-dc145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307808452045:android:5535b226d6ec5028",
+        "android_client_info": {
+          "package_name": "com.trustcoder.projectx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307808452045-nh9ni4sscr359v58sclgkparmqs84q29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB59TvJdTUddq5xe4MeWwlVQVI6pGLiGso"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
